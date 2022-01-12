@@ -2,6 +2,12 @@
 <img src="https://i.imgur.com/RMupxMP.png" width="30%"> \
 Report (including SRS  and ppt) for online shopping system CCC Shop of database systems course.
 
+## System architecture
+<img src="./img/system_architecture.jpg" width="40%">
+
+## ER diagram
+<img src="./img/CCCShop_ER_diagram.png" width="40%">
+
 ## Demo video for different scenario
 
 youtube channel: [https://www.youtube.com/playlist?list=PLuIs3VbIw0SmLry-_GpOQhUIGmaYZIKfI](https://www.youtube.com/playlist?list=PLuIs3VbIw0SmLry-_GpOQhUIGmaYZIKfI)
