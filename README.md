@@ -1,5 +1,5 @@
 # ccc-shop-report
-<img src="./img/cccshop.png" width="30%"> \
+<img src="https://i.imgur.com/RMupxMP.png" width="30%"> \
 Report (including SRS  and ppt) for online shopping system CCC Shop of database systems course.
 
 ## Demo video for different scenario
