@@ -3,7 +3,7 @@
 Report (including SRS  and ppt) for online shopping system CCC Shop of database systems course.
 
 ## System architecture
-<img src="./img/system_architecture.jpg" width="40%">
+<img src="./img/system_architecture.jpeg" width="40%">
 
 ## ER diagram
 <img src="./img/CCCShop_ER_diagram.png" width="40%">
